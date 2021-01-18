@@ -16,8 +16,8 @@ My name is Nazar Kordiumov  🚀, I'm Java Developer working at Schibsted and st
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Java Developer at **Schibsted Tech Polska** [<img src="https://raw.githubusercontent.com/nazkord/nazkord/master/schibsted_logo.png"/>](https://www.schibsted.pl/)
-- 🎓 I’m currently studying **Computer Science on AGH** <img src="https://raw.githubusercontent.com/nazkord/nazkord/master/agh_logo.png">
+- 🔭 I’m currently working as Java Developer at **Schibsted Tech Polska** [<img src="https://raw.githubusercontent.com/nazkord/nazkord/blob/main/schibsted_logo.png"/>](https://www.schibsted.pl/)
+- 🎓 I’m currently studying **Computer Science on AGH** <img src="https://raw.githubusercontent.com/nazkord/nazkord/blob/main/agh_logo.png">
 - 🌱 Working on **improving Java skills**
 - ⭐ 2021 goals: gain the <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="3.5%"/> certificate and learn more about BlockChain 
 - 💬 Ask me about anything, I am happy to help
