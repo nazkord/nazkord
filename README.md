@@ -4,19 +4,19 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nazkord/">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6%"/> 
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/> 
     </a>
     <a href="https://www.facebook.com/nazkordd/">
-        <img src="https://img.icons8.com/color/48/000000/facebook-circled--v5.png" width="6%"/> 
+        <img src="https://img.icons8.com/color/48/000000/facebook-circled--v5.png" width="3%"/> 
     </a>
     <a href="https://www.instagram.com/nazarsx/">
-        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="6%"/> 
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3%"/> 
     </a>
     <a href="https://discord.gg/nazkord">
-        <img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png" width="6%"/> 
+        <img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png" width="3%"/> 
     </a>
     <a href="mailto:nazkord@gmail.com"> 
-        <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="6%"/> 
+        <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/> 
     </a>
     <img src="https://visitor-badge.glitch.me/badge?page_id=nazkord.nazkord"/>
 </p>
@@ -25,10 +25,10 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 [comment]: <> (####📫 How to reach me:)
 
-<img align="right" src="/Users/nazkord/GitHub/nazkord/assets/programmer.png" height="250"  alt="programmer image"/>
+<img align="right" src="https://raw.githubusercontent.com/nazkord/nazkord/master/assets/programmer.png" height="250"  alt="programmer image"/>
 
-- 🔭 I’m currently working as Java Developer at **Schibsted Tech Polska** [<img src="https://raw.githubusercontent.com/nazkord/nazkord/blob/main/schibsted_logo.png"/>](https://www.schibsted.pl/)
-- 🎓 I’m studying **Computer Science on AGH** <img src="https://raw.githubusercontent.com/nazkord/nazkord/blob/main/agh_logo.png">
+- 🔭 I’m currently working as Java Developer at **Schibsted Tech Polska** [<img src="https://raw.githubusercontent.com/nazkord/nazkord/main/assets/schibsted_logo.png"/>](https://www.schibsted.pl/)
+- 🎓 I’m studying **Computer Science on AGH** <img src="https://raw.githubusercontent.com/nazkord/nazkord/main/assets/agh_logo.png">
 - 🌱 Working on improving **Java skills**
 - ⭐ 2021 goals: gain the <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="2.5%"/> certificate and learn more about Flutter
 - 💬 Ask me about anything, I am happy to help
