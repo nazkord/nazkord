@@ -27,8 +27,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <img align="right" src="https://raw.githubusercontent.com/nazkord/nazkord/master/assets/programmer.png" height="250"  alt="programmer image"/>
 
-- 🔭 I’m currently working as Java Developer at **Schibsted Tech Polska** [<img src="https://raw.githubusercontent.com/nazkord/nazkord/main/assets/schibsted_logo.png"/>](https://www.schibsted.pl/)
-- 🎓 I’m studying **Computer Science on AGH** <img src="https://raw.githubusercontent.com/nazkord/nazkord/main/assets/agh_logo.png">
+- 🔭 I’m currently working as Java Developer at **Schibsted Tech Polska**
+- 🎓 I’m studying **Computer Science on AGH**
 - 🌱 Working on improving **Java skills**
 - ⭐ 2021 goals: gain the <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="2.5%"/> certificate and learn more about Flutter
 - 💬 Ask me about anything, I am happy to help
