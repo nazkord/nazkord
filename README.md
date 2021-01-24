@@ -1,6 +1,6 @@
-<h1 align="center">
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-</h1>
+<h3 align="center">
+Hi there, I'm Nazar Kordiumov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nazkord/">
@@ -21,7 +21,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
     <img src="https://visitor-badge.glitch.me/badge?page_id=nazkord.nazkord"/>
 </p>
 
-**My name is Nazar Kordiumov  🚀, I'm Java Developer working at Schibsted and studying Computer Science in Krakow.**  
 
 [comment]: <> (####📫 How to reach me:)
 
